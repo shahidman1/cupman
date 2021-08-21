@@ -1,14 +1,10 @@
 [
   {
-    "Text": "تست متن",
-    "Photo": "https://www.uplooder.net/img/image/98/cb8902ee870d9785e5e6d512d6567055/۲۰۲۱۰۸۱۹-۰۸۴۵۵۶.jpg",
-    "Advertise": "https://s4.uupload.ir/files/۲۰۲۱۰۸۱۱_۱۲۴۶۰۳_o6uo.png",
-    "Advertise Click": "PES_BOX"
+    "Text": "تست ۱۲۳",
+    "Photo": "https://www.uplooder.net/img/image/98/cb8902ee870d9785e5e6d512d6567055/۲۰۲۱۰۸۱۹-۰۸۴۵۵۶.jpg"
   },
   {
-    "Text": "",
-    "Photo": "",
-    "Advertise": "",
-    "Advertise Click": ""
+    "Advertise": "https://s4.uupload.ir/files/۲۰۲۱۰۸۱۱_۱۲۴۶۰۳_o6uo.png",
+    "Advertise Click": "PES_BOX"
   }
 ]
